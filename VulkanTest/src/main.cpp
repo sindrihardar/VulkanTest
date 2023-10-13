@@ -1,11 +1,7 @@
-#include "VulkanTester.h"
+import VulkanApp;
 
-# include  <cstdlib>
-# include <iostream>
-#include <stdexcept>
-
-#define GLFW_INCLUDE_VULKAN
-
+import <cstdlib>;
+import <iostream>;
 
 int main()
 {
